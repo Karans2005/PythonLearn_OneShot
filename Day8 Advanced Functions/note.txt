@@ -1,0 +1,16 @@
+map() vs filter() vs reduce()
+
+Ye important hai:
+
+Function	Kaam
+map()	Har item ko change/transform karta hai
+filter()	Condition ke basis par items select karta hai
+reduce()	Sab values ko combine karke ek result deta hai
+
+Yaad rakhna:
+*args     → Tuple
+**kwargs  → Dictionary
+lambda    → One-line function
+map       → Transform
+filter    → Select
+reduce    → Combine
